@@ -7,7 +7,7 @@ void main()
 	cout << "Завдання №2:" << endl;
 	int* asd_0_1 = nullptr;
 	asd_0_1 = new int;
-	cout << "Введiть ваше число -> " ;
+	cout << "Введiть ваше число -> ";
 	cin >> *(asd_0_1);
 	if (*(asd_0_1) >= 0)
 	{
